@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/Staff.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/views/StaffView.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/Document.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/CRS.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/views/VolunteerView.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/NewClass.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/Volunteer.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/Trip.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/TripApplicationsTableModel.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/UserTableModel.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/ApplicationStatusTableModel.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/controllers/CRSController.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/views/CRSView.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/views/ManagerView.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/TripsTableModel.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/nbproject/build-impl.xml</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/User.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/VolunteerApplicationTableModel.java</file>
+            <file>file:/Users/user/NetBeansProjects/crs_gui/src/crs_gui/models/Application.java</file>
+        </group>
+    </open-files>
+</project-private>
